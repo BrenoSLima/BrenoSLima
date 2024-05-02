@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Breno, a computer sciente student in Brazil, currently looking to expand and apply my knowledge of data sciente and machine learning.
+I'm Breno, a computer sciente student, currently looking to expand and apply my knowledge of data sciente and machine learning.
 
 Here you can find all of my projects.
 
